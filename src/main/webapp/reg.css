@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.form-nwreg{
+	background-color:#FEFCF3;
+	font-size:25px;
+	width :40%;
+	display:flex;
+	justify-content:center;
+	margin-left:53%;
+	margin-top:2%;
+	margin-right:10%;
+	border-radius:15px;
+	padding-bottom:15px;
+}
+
+.form-nwreg input,textarea{
+	width:350px;
+	height:25px;
+	margin-top:5px;
+	margin-bottom:10px;
+	font-size:16px;
+	background-color:#009EFF;
+	border-radius:10px;
+}

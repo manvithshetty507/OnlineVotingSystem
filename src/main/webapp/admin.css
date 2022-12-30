@@ -1,0 +1,87 @@
+@charset "UTF-8";
+body{
+	margin : 0;
+	background-image:url("https://akm-img-a-in.tosshub.com/aajtak/images/story/202205/ssd-sixteen_nine.jpg?size=1200:675");
+	background-repeat:no repeat;
+	background-size:100% 900px;
+}
+nav{
+	color:white;
+	background-color:orange;
+	font-size:30px;
+	justify-content:right;
+	display:flex;
+	padding-top :20px;
+	padding-bottom :20px;
+}
+nav a{
+	color : white;
+	padding-right :20px;
+	padding-left :20px;
+}
+
+nav a:hover{
+	color :black;
+}
+
+.form-admin{
+	background-color:#FEFCF3;
+	font-size:30px;
+	width :40%;
+	display:flex;
+	justify-content:center;
+	margin-left:53%;
+	margin-top:10%;
+	margin-right:10%;
+	border-radius:15px;
+	padding-bottom:30px;
+	opacity: 0.9;
+}
+
+.form-admin input,button{
+	width:250px;
+	height:30px;
+	margin-top:10px;
+	margin-bottom:15px;
+	font-size:20px;
+	background-color:#009EFF;
+	border-radius:10px;
+}
+.form-admin button{
+	width:150px;
+	height:35px;
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-left:50px;
+	font-size:20px;
+	background-color:#009EFF;
+	border-radius:10px;
+}
+
+.form-admin a{
+	color:red;
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-left:50px;
+	font-size:20px;
+	
+}
+
+.div-box {
+	background-color:#FEFCF3;
+	font-size:30px;
+	width :30%;
+	display:flex;
+	justify-content:center;
+	margin-left:53%;
+	margin-top:15%;
+	margin-right:10%;
+	border-radius:15px;
+	padding-bottom:20px;
+	opacity: 0.9;
+}
+.div-box li{
+	color:black;
+	margin-top:10px;
+	margin-bottom:10px;
+}

@@ -1,0 +1,54 @@
+@charset "UTF-8";
+body{
+	margin : 0;
+	background-image:url("https://akm-img-a-in.tosshub.com/aajtak/images/story/202205/ssd-sixteen_nine.jpg?size=1200:675");
+	background-repeat:no repeat;
+	background-size:100% 900px;
+}
+nav{
+	color:white;
+	background-color:orange;
+	font-size:30px;
+	justify-content:right;
+	display:flex;
+	padding-top :20px;
+	padding-bottom :20px;
+}
+nav a{
+	color : white;
+	padding-right :20px;
+	padding-left :20px;
+}
+
+nav a:hover{
+	color :black;
+}
+
+.form-container{
+	background-color:#FEFCF3;
+	font-size:30px;
+	width :40%;
+	display:flex;
+	justify-content:center;
+	margin-left:53%;
+	margin-top:10%;
+	margin-right:10%;
+	border-radius:15px;
+	padding-bottom:20px;
+}
+
+.form-container input,button{
+	width:350px;
+	height:35px;
+	margin-top:10px;
+	margin-bottom:20px;
+	font-size:20px;
+	background-color:#009EFF;
+	border-radius:10px;
+}
+.form-container a{
+	margin-left:130px;
+	color:red;
+}
+
+
